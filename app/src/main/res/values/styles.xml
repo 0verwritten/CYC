@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "TabStyle" parent="Widget.Design.TabLayout">
+        <item name = "android:textSize">16sp</item>
+    </style>
+    <style name="montserrat_italic" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/montserrat_italic</item>
+        <item name="fontFamily">@font/montserrat_italic</item> <!-- target android sdk versions < 26 and > 14 if theme other than AppCompat -->
+    </style>
+</resources>

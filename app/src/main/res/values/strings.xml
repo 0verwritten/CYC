@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Special for Aleg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="TypeOfDiet">
+        <item>Веганство</item>
+        <item>Вегатеріанство</item>
+        <item>Без лактози</item>
+        <item>Без глютену</item>
+    </string-array>
+
+    <string-array name="TypeOfDish">
+        <item>Основна страва</item>
+        <item>Випічка</item>
+        <item>Суп</item>
+        <item>Сніданок</item>
+        <item>Десерт</item>
+        <item>Салат</item>
+    </string-array>
+    <string-array name="Tips">
+        <item>Щоб пeчінка не була жoрсткою,</item>
+        <item>соліть її в кінці приготування.</item>
+        <item>Яловичина вийде м’якою і ніжною, якщо </item>
+        <item>замаринувати її в майонезі на півгодини перед приготуванням</item>
+        <item>Не накривайте квасолю при приготуванні,</item>
+        <item>і вона не потемніє</item>
+        <item>Ідея додати трохи ванілі в овочевий салат </item>
+        <item>здається дивною, але це дійсно смачно!</item>
+        <item>Рис вийде білим і смачним, </item>
+        <item>якщо у воду додати трохи оцту.</item>
+    </string-array>
+
+</resources>
